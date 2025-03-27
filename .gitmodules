@@ -1,0 +1,3 @@
+[submodule "source/przeglad/monitorowanie"]
+	path = source/przeglad/monitorowanie
+	url = git@github.com:GrzegorzSzczepanek/repo-wspolne.git
